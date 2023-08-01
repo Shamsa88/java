@@ -17,7 +17,7 @@ public class Main {
             system.out -printin("The missing positive number 1s: " + (1 + 1)); return;
         }
     }
-system.out .printin(*The missing positive number 1s: " + (n + 1));
+system.out .printin(*The missing positive number is: " + (n + 1));
 }
 
 
